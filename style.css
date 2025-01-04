@@ -148,6 +148,7 @@ div.unread,
 div.read {
   display: flex;
   margin-bottom: 1rem;
+  padding: 1rem;
 }
 
 img {
@@ -191,8 +192,7 @@ label {
 }
 
 .active {
-  background: var(--Light-grayish-blue-1);
-  padding: 1rem;
+  background-color: var(--Light-grayish-blue-1);
   border-radius: 0.5rem;
 }
 
